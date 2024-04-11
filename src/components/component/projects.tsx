@@ -8,7 +8,7 @@ import { MotionDiv } from "./MotionDiv"
 
 export function Projects() {
   return (
-    <section className="w-full py-12 md:py-24 lg:py-32" id="projects">
+    <section className="w-full py-10" id="projects">
       <MotionDiv
         initial={{ opacity: 0 }}
         whileInView={{ opacity: 1 }}

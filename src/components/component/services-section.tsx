@@ -15,7 +15,7 @@ transition={{
   duration: 1,
 }}
 id="Services"
-  className="grid md:grid-cols-2 items-start gap-6 mx container mx-auto px-5"
+  className="grid md:grid-cols-2 items-start gap-6 mx container mx-auto px-5 py-10"
   
 >
 <div>

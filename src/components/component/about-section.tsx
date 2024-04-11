@@ -14,7 +14,7 @@ export function AboutSection() {
         delay: 0.2,
         ease: "easeInOut",
         duration: 1,
-      }} className="w-full max-w-8xl mx-auto container pb-12 p-2"
+      }} className="mx-auto container py-12"
       id="about">
       <Card>
         <div

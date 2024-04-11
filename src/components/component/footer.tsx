@@ -17,7 +17,7 @@ export function Footer() {
     <footer className="bg-white rounded-lg shadow m-4">
       <div className="p-8">
         <div className="lg:flex">
-          <a href="mail:pixelblaze@proton.me">
+          <a href="mailto:pixelblaze@proton.me">
           <h3 className="bg-black text-white px-5 py-2 mb-12 rounded-lg mr-auto text-xl">pixelblaze@proton.me</h3>
           </a>
           <h3 className="text-3xl pt-3 ml-auto">START BUILDING?</h3>
